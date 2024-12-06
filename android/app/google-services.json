@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400950993097",
+    "project_id": "authblocproject",
+    "storage_bucket": "authblocproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400950993097:android:30cb4ed738072ea8e16d18",
+        "android_client_info": {
+          "package_name": "com.example.authblocproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnX-bRKNmMmOMtSKEoIbUxoaOP-3ioxtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
